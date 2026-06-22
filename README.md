@@ -19,23 +19,23 @@ Backend: Node.js, Express, Socket.IO
 
 Hosting: Netlify (frontend) / Render (backend) – or Netlify / any Node host
 
-📦 Run Locally
-1)**Clone the repository**
-bash
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
-
-2) **Install dependencies**
-bash
-cd server && npm install
-cd ../client && npm install
-
-3) **Start the backend**
-bash
-cd server
-npm start          # runs on http://localhost:3001
-
-4) **Start the frontend (in another terminal)**
+📦 Run Locally <br>
+1)**Clone the repository**<br>
+bash  <br>
+git clone https://github.com/your-username/tic-tac-toe.git  <br>
+cd tic-tac-toe  <br>
+<br>
+2) **Install dependencies**   <br>
+bash  <br>
+cd server && npm install   <br>
+cd ../client && npm install    <br>
+<br>
+3) **Start the backend**  <br>
+bash<br>
+cd server  <br>
+npm start          # runs on http://localhost:3001   <br>
+<br>
+4) **Start the frontend (in another terminal)**<br>
 bash
 cd client
 npm run dev        # runs on http://localhost:5173
