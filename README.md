@@ -19,7 +19,7 @@ Backend: Node.js, Express, Socket.IO
 
 Hosting: Netlify (frontend) / Render (backend) – or Netlify / any Node host
 
-📦 Run Locally <br>
+📦 Run Locally <br> <br>
 1)**Clone the repository**<br>
 bash  <br>
 git clone https://github.com/your-username/tic-tac-toe.git  <br>
