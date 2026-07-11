@@ -13,7 +13,7 @@ Alternating first move after each game.
 Mobile‑friendly responsive design.
 
 🛠️ Tech Stack
-Frontend: React 18, Vite, Socket.IO‑client
+Frontend: React js , Vite, Socket.IO‑client
 
 Backend: Node.js, Express, Socket.IO
 
